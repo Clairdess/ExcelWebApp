@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ExcelWebAppApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(ExcelWebAppApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(ExcelWebAppApplication.class, args);
+    }
 
 }
